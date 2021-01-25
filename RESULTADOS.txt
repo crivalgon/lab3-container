@@ -22,3 +22,36 @@ Start
 real	3m44.696s
 user	3m44.513s
 sys	0m0.003s
+
+### Evaluacion con singularity:
+
+# c++ 13
+
+Start
+
+real	0m0.746s
+user	0m0.612s
+sys	0m0.088s
+
+# c++ 14
+
+Start
+
+real	0m2.469s
+user	0m2.349s
+sys	0m0.082s
+Start
+
+# Python 13
+real	0m56.264s
+user	0m56.057s
+sys	0m0.122s
+
+# Python 14 
+
+Start
+
+real	3m48.668s
+user	3m48.323s
+sys	0m0.123s
+
