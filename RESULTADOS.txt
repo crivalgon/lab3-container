@@ -1,0 +1,24 @@
+
+# c++ k-mers13
+Start
+
+real	0m0.580s
+user	0m0.579s
+sys	0m0.001s
+Start
+#c++ k-mers14
+real	0m2.309s
+user	0m2.307s
+sys	0m0.000s
+Start
+#python k-mers13
+real	0m56.766s
+user	0m56.718s
+sys	0m0.003s
+
+#python k-mers14
+Start
+
+real	3m44.696s
+user	3m44.513s
+sys	0m0.003s
