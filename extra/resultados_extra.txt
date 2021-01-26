@@ -1,0 +1,11 @@
+# Python 3.6 - Iterativo
+0.03897881507873535
+
+# Python 3.6 - Recursion
+0.13323020935058594
+
+# Python a traves de Singularity - Iterativo
+0.04239296913146973
+
+# Python a traves de Singularity - Recursion 
+0.13715028762817383
